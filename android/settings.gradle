@@ -1,0 +1,3 @@
+rootProject.name = 'lpvb_app_1885'
+
+include ':app'
